@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pocketnote/styleguide/colors.dart';
 import './pages/home_page.dart';
+import 'package:firebase/firebase.dart';
 
 void main() => runApp(MyApp());
 

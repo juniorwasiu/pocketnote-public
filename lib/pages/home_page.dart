@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pocketnote/common/app_background.dart';
 import 'package:pocketnote/common/home_page_components.dart';
+import 'package:firebase/firebase.dart';
 
 class HomePage extends StatelessWidget{
   @override
